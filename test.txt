@@ -7,3 +7,5 @@ päivitys teksti, commit 2
 extra row added from the web interface
 
 extra row appears on the computer, works great!
+
+file conflict test
